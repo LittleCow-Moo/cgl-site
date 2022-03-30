@@ -1,4 +1,7 @@
-# 牛牛的草原 CGL Network
+<div align="center">
+<h1>牛牛的草原 CGL Network</h1>
+<img src="https://cdn.discordapp.com/avatars/836204711454834688/ec51f3aed0943f79239a05124e863dd5.webp?size=1024"/>
+</div>
 
 # IP
 生存: `ax41.cygennodes.com:25733`

@@ -5,16 +5,22 @@
 
 # IP
 生存: `ax41.cygennodes.com:25733`
-創造: `free.4.notafree.host:30370`
-(都是基岩版)
 
-# 伺服器規則
+創造: `free.4.notafree.host:30370`
+
+> 提示：都是基岩版
+
+# 📙 伺服器規則
 ## 共同規定
 1.保持對其他玩家友善<br>
 2.不隨意破壞地形及他人建築<br>
 3.不要作弊<br>
 4.不要再主世界或有未保護建築的地區召喚具破壞力的生物<br>
-5.最好不要在CharlieMoomoo面前殺牛（？<br>
+5.最好不要在CharlieMoomoo面前殺牛<br>
+
+<img width="50" style="border-radius: 50%" src="https://media.discordapp.net/attachments/858984158620286998/958905383571828836/unknown.png"/>
+<blockquote style="display: flex; flex-direction: column; flex-wrap: wrap;">
+  殺了牛我就會殺了你</blockquote>
 
 ## 創造規定
 1.謹慎使用指令<br>

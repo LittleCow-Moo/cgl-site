@@ -4,7 +4,7 @@
 </div>
 
 # IP
-生存: `ax41.cygennodes.com:25733`
+生存: `ax41.cygennodes.com:25733`<br>
 創造: `free.4.notafree.host:30370`
 
 > 提示：都是基岩版

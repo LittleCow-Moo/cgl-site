@@ -4,10 +4,11 @@
 </div>
 
 # IP
-生存: `ax41.cygennodes.com:25733`<br>
-創造: `free.4.notafree.host:30370`
-
-> 備註：都是基岩版
+## 基岩版 (版本1.18.12)
+生存: vps2.light-land.net:25776<br>
+創造: free.4.notafree.host:30370<br>
+## Java版 (版本1.18.0)
+java.cgl.c-moo.cf
 
 # 📙 伺服器規則
 ## 共同規定

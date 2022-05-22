@@ -6,4 +6,5 @@ Minecraft創造伺服器佔地規則<br>
 該區域即為你專屬的建築區<br>
 <br>
 像這張圖的黑色方塊一樣<br>
-![這張圖](https://littlecow.tiny.us/cgl-xyzblocks](https://pxt.azureedge.net/blob/f804551c806485b2aeca2d316ef5fcf0ca8b0e18/static/mods/3d-axis.jpg)<br>
+![這張圖](https://littlecow.tiny.us/cgl-xyzblocks](https://pxt.azureedge.net/blob/f804551c806485b2aeca2d316ef5fcf0ca8b0e18/static/mods/3d-axis.jpg)
+<br>
